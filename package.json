@@ -1,0 +1,29 @@
+{
+  "name": "lotionjs-examples",
+  "version": "0.0.1",
+  "description": "Basic application examples using LotionJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emizzle/lotionjs-examples.git"
+  },
+  "keywords": [
+    "cosmos",
+    "smart",
+    "contracts",
+    "blockchain"
+  ],
+  "author": "Eric Mastro <eric.mastro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emizzle/lotionjs-examples/issues"
+  },
+  "homepage": "https://github.com/emizzle/lotionjs-examples#readme",
+  "dependencies": {
+    "coins": "^4.5.0",
+    "lotion": "^0.4.26"
+  }
+}
